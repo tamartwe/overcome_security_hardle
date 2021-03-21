@@ -8,8 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}\\sync_crypto.js",
-            "autoAttachChildren": true
+            "program": "${workspaceFolder}//server.js"
         }
     ]
 }
